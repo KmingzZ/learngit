@@ -4,3 +4,4 @@ add test02 new data
 ha ha ha 
 hei hei hei 
 test --no-ff
+create table ing....
